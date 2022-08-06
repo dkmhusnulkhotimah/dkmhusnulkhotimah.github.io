@@ -741,3 +741,9 @@ section {
     font-size: 1.5rem;
   }
 }
+
+@media (max-width: 394px) {
+  .home .content h3 {
+    font-size: 2rem;
+  }
+}
