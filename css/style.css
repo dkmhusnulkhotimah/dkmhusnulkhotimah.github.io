@@ -704,6 +704,12 @@ section {
   }
 }
 
+@media (max-width: 559px) {
+  .home .content h3 {
+    font-size: 2rem;
+  }
+}
+
 @media (max-width: 450px) {
   html {
     font-size: 50%;
